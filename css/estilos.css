@@ -9,6 +9,15 @@ h1{
   font-size: 50px;
   text-shadow: 1px 1px 7px rgba(150, 150, 150, 1);
 }
+<style>
+div {
+  width: 320px;
+  padding: 30px;
+  border: 5px solid gray;
+  margin: 0;
+}
+</style>
+<div>
 h2{
   text-align: Left;
   color: #FFF;
@@ -20,15 +29,8 @@ h3{
   color: #FFF;
   font-size: 25px;
   text-shadow: 1px 1px 7px rgba(150, 150, 150, 1);
-}
-div {
-  background-color: lightblue;
-  width: 320px;
-  padding: 0px;
-  border: 5px solid green;
-  margin: 0;
-  
-}
+ } </div>
+
 .bild {
   position:absolute;
   display:none;
