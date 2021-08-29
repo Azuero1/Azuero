@@ -16,12 +16,7 @@ h2{
   font-size: 35px;
   text-shadow: 1px 1px 7px rgba(150, 150, 150, 1);
 }
-p3{
-  text-align: left;
-  color: #FFF;
-  font-size: 25px;
-  text-shadow: 1px 1px 7px rgba(150, 150, 150, 1);
- } 
+
 .bild {
   position:absolute;
   display:none;
