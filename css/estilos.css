@@ -26,6 +26,7 @@ div {
   padding: 10px;
   border: 5px solid green;
   margin: 0;
+   background-color: grey;
 }
 .bild {
   position:absolute;
